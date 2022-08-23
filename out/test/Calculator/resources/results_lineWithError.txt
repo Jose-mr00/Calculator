@@ -1,0 +1,7 @@
+lions 3 , snakes 3
+Tarantulas 1 , FC Awesome 0
+lions 1 , FC Awesome 1
+Tarantulas 3, snakes 1
+lions 4, Grouches 0
+the wild dogs 4 , ants 3$
+the birds 0, the pigs 0

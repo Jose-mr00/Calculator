@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dependecies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../commons-lang3-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lombok.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
